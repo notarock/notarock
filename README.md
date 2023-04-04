@@ -1,7 +1,7 @@
 # Hi (sorry for bad english)
 
 - Fun: Likes dexterity-based skills (kendamas, yoyos, vim and emacs counts too)
-- Work: Platform engineering (from CI/CD to SRE). Golang
+- Work: Devops Consulting
 - Side stuff: Golang Clojure Nix 
 
 ### Catchphrase
