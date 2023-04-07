@@ -1,12 +1,8 @@
 # Hi (sorry for bad english)
 
 - Fun: Likes dexterity-based skills (kendamas, yoyos, vim and emacs counts too)
-- Work: Devops Consulting
-- Side stuff: Golang Clojure Nix 
-
-### Catchphrase
-
-Ma shit fonctionne
+- Work: Devops, System Engineering, Cloud-scale production environments and all the fun stuff.
+- Side work: Fun projects and open-source contributions in Golang/Nix/Python. 
 
 ### Corny stats tracking widgets and emoji-filled containment space
 
