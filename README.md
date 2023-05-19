@@ -1,8 +1,8 @@
 # `(greet 'visitor)`
 
+- Work: Devops, Platform Engineering, Cloud-scale production environments and all the fun SRE stuff.
+- Side work: Fun projects and open-source contributions in Golang/Nix/Python. Funny stuff or QOL toolings.
 - Fun: Likes dexterity-based skills (kendamas, yoyos, vim and emacs counts too)
-- Work: Devops, System Engineering, Cloud-scale production environments and all the fun stuff.
-- Side work: Fun projects and open-source contributions in Golang/Nix/Python. 
 
 ## Certifications, badges, etc
 
