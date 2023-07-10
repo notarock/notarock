@@ -1,11 +1,14 @@
-# `(greet 'visitor)`
+# What I do
 
-- Work: Devops, Platform Engineering, Cloud-scale production environments and all the fun SRE stuff.
-- Side work: Fun projects and open-source contributions in Golang/Nix/Python. Funny stuff or QOL toolings.
-- Fun: Likes dexterity-based skills (kendamas, yoyos, vim and emacs counts too)
-- Likes fishing and the outside
-
+- 🥱 Work: DevOps Consulting. 
+- 🧐 On the side: QOL Automations/Homelab/Open Source contributions in Golang/Python/Clojure.
+- 🤪 Fun: Dumb ideas turned into funny projects. Meme translator, discord bot and other fluff projects.
+- 😎 Esoteric: Emacs nerd. Nix will replace ansible. Wish I was using Clojure full time.
+- 🤩 Dreams of: Building the tools SRE's, DevOps and Platform Engineers uses everyday.
+  
 ## Certifications, badges, etc
+
+I was told these are worth something so like, have a look I guess
 
 <a href="https://www.credly.com/badges/687419a1-50b4-4c72-a248-dd03089ec084/public_url">
   <img src="https://user-images.githubusercontent.com/25652765/235519451-44992ad3-fa86-4458-8320-62bd687d9fb2.png" width="120">
