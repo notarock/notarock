@@ -1,6 +1,5 @@
 # What I do
 
-- 🥱 Work: DevOps Consulting. 
 - 🧐 On the side: QOL Automations/Homelab/Open Source contributions in Golang/Python/Clojure.
 - 🤪 Fun: Dumb ideas turned into funny projects. Meme translator, discord bot and other fluff projects.
 - 😎 Esoteric: Emacs nerd. Nix will replace ansible. Wish I was using Clojure full time.
