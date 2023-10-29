@@ -1,6 +1,6 @@
 # What I do
 
-- 🧐 On the side: QOL Automations/Homelab/Open Source contributions in Golang/Python/Clojure.
+- 🧐 QOL Automations/Homelab/Open Source contributions in Golang/Python/Clojure.
 - 🤪 Fun: Dumb ideas turned into funny projects. Meme translator, discord bot and other fluff projects.
 - 😎 Esoteric: Emacs nerd. Nix will replace ansible. Wish I was using Clojure full time.
 - 🤩 Dreams of: Building the tools SRE's, DevOps and Platform Engineers uses everyday.
