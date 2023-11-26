@@ -17,8 +17,6 @@
   <img src="https://github.com/notarock/notarock/assets/25652765/1dd87c3d-e602-4149-83df-97a918268cb6" height="75" />
   <img src="https://github.com/notarock/notarock/assets/25652765/1dd87c3d-e602-4149-83df-97a918268cb6" height="75" />
   <img src="https://github.com/notarock/notarock/assets/25652765/1dd87c3d-e602-4149-83df-97a918268cb6" height="75" />
-  <img src="https://github.com/notarock/notarock/assets/25652765/1dd87c3d-e602-4149-83df-97a918268cb6" height="75" />
-  <img src="https://github.com/notarock/notarock/assets/25652765/1dd87c3d-e602-4149-83df-97a918268cb6" height="75" />
 <p float="left">
 
 I have some *certifications*, I guess you can [check them out here](https://www.credly.com/users/roch-d-amour) if that's your thing
