@@ -2,9 +2,9 @@
 
 - 🧐 QOL: Whatever it is, I like to get it out of the way via automations.
 - 🤪 Fun: Dumb ideas turned into funny projects. Meme translator, discord bot and other fluff projects.
-- ☁️ Cloud native: Even if the cloud is my own server rack at home
-- 🦄 Esoteric: Emacs nerd. Nix will replace ansible. Shell wizard when needed
-- 🤩 One day, I'll be building the tools Platform Engineers, SRE and DevOps people uses everyday
+- ☁️ Cloud native: Even if the cloud is my own server rack at home.
+- 🦄 Esoteric: Emacs nerd. Nix will replace ansible. Shell wizard when needed.
+- 🤩 One day, I'll be building the tools Platform Engineers, SRE and DevOps people uses everyday.
 
 
 <p float="left">
