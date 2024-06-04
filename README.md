@@ -28,8 +28,11 @@ I have some *certifications*, I guess you can [check them out here](https://www.
 ![Profile View](https://komarev.com/ghpvc/?username=notarock&color=orange)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
+<img src="https://github.com/notarock/notarock/assets/25652765/7b1fca85-6e36-428e-a4f6-cfb777b87fbf" height="175" />
+
 <img src="https://github.com/notarock/notarock/assets/25652765/50c73141-b269-47a4-9767-ea3ce4bf69f6" height="175" />
 
 <img src="https://github.com/notarock/notarock/assets/25652765/c1fe45c5-c8e7-41b7-935f-eb2351f6f8a0" height="175" />
 
 <img src="https://github.com/notarock/notarock/assets/25652765/59c1a7e4-2680-4b60-aed0-a54eb38b3b41" height="175" />
+
