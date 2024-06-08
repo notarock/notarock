@@ -35,6 +35,3 @@ I have some *certifications*, I guess you can [check them out here](https://www.
 <img src="https://github.com/notarock/notarock/assets/25652765/c1fe45c5-c8e7-41b7-935f-eb2351f6f8a0" height="175" />
 
 <img src="https://github.com/notarock/notarock/assets/25652765/59c1a7e4-2680-4b60-aed0-a54eb38b3b41" height="175" />
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background: url('https://github.com/notarock/notarock/assets/25652765/1503834b-3b46-4323-860a-114b72ad1d69?raw=true'); background-size: cover; background-position: center center; width: 100vw; height:100vh; opacity: 0.15;]{x0000}$}
