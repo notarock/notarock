@@ -22,7 +22,7 @@
 
 I have some *certifications*, I guess you can [check them out here](https://www.credly.com/users/roch-d-amour) if that's your thing... 🙄
 
-## Corny stats tracking widgets and emoji-filled containment space...
+## Corny stats tracking widgets containment space
 
 ![Profile View](https://komarev.com/ghpvc/?username=notarock&color=orange)
 ![wakapi](https://img.shields.io/endpoint?url=https://wakapi.notarock.lol/api/compat/shields/v1/notarock/interval:30_days&label=last%2030d)
