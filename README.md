@@ -38,13 +38,13 @@ I have some *certifications*, I guess you can [check them out here](https://www.
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://github.com/notarock/notarock/assets/25652765/f70b30d5-95e7-4834-badd-64414e3c14f7" alt="I was only pretending to be stupid" height="150" />
+<img src="https://github.com/notarock/notarock/assets/25652765/f70b30d5-95e7-4834-badd-64414e3c14f7" alt="I was only pretending to be stupid" height="175" />
 
-<img src="https://github.com/notarock/notarock/assets/25652765/7b1fca85-6e36-428e-a4f6-cfb777b87fbf" alt="jira is pain" height="150" />
+<img src="https://github.com/notarock/notarock/assets/25652765/7b1fca85-6e36-428e-a4f6-cfb777b87fbf" alt="jira is pain" height="175" />
 
-<img src="https://github.com/notarock/notarock/assets/25652765/cfe6fc8c-265c-4288-a930-1d2b9dccd2aa" alt="THis email could have been a 1h long zoom call" height="150" />
+<img src="https://github.com/notarock/notarock/assets/25652765/cfe6fc8c-265c-4288-a930-1d2b9dccd2aa" alt="THis email could have been a 1h long zoom call" height="175" />
 
-<img src="https://github.com/notarock/notarock/assets/25652765/c1fe45c5-c8e7-41b7-935f-eb2351f6f8a0" alt="skateboi" height="150" />
+<img src="https://github.com/notarock/notarock/assets/25652765/c1fe45c5-c8e7-41b7-935f-eb2351f6f8a0" alt="skateboi" height="175" />
 
 <details>
   <summary>More stats</summary>
