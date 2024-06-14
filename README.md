@@ -46,8 +46,6 @@ I have some *certifications*, I guess you can [check them out here](https://www.
 
 <img src="https://github.com/notarock/notarock/assets/25652765/c1fe45c5-c8e7-41b7-935f-eb2351f6f8a0" alt="skateboi" height="150" />
 
-<img src="https://github.com/notarock/notarock/assets/25652765/4c733f46-a982-4d8b-a92b-4d59dfe9bc2f" alt="gahoo loonix" height="150" />
-
 <details>
   <summary>More stats</summary>
   
