@@ -38,13 +38,18 @@ I have some *certifications*, I guess you can [check them out here](https://www.
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://github.com/notarock/notarock/assets/25652765/7b1fca85-6e36-428e-a4f6-cfb777b87fbf" height="175" />
+<img src="https://github.com/notarock/notarock/assets/25652765/7b1fca85-6e36-428e-a4f6-cfb777b87fbf" alt="jira is pain" height="175" />
 
-<img src="https://github.com/notarock/notarock/assets/25652765/50c73141-b269-47a4-9767-ea3ce4bf69f6" height="175" />
+<img src="https://github.com/notarock/notarock/assets/25652765/50c73141-b269-47a4-9767-ea3ce4bf69f6" alt="swag" height="175" />
 
-<img src="https://github.com/notarock/notarock/assets/25652765/c1fe45c5-c8e7-41b7-935f-eb2351f6f8a0" height="175" />
+<img src="https://github.com/notarock/notarock/assets/25652765/c1fe45c5-c8e7-41b7-935f-eb2351f6f8a0" alt="skateboi" height="175" />
 
-<img src="https://github.com/notarock/notarock/assets/25652765/59c1a7e4-2680-4b60-aed0-a54eb38b3b41" height="175" />
+<img src="https://github.com/notarock/notarock/assets/25652765/59c1a7e4-2680-4b60-aed0-a54eb38b3b41" alt="fernando" height="175" />
+
+<img src="https://github.com/notarock/notarock/assets/25652765/4c733f46-a982-4d8b-a92b-4d59dfe9bc2f" alt="gahoo loonix" height="175" />
+
+<img src="https://github.com/notarock/notarock/assets/25652765/a16769f1-4dd4-42d0-9e5e-7859c72c7461" alt="dog heeheeheehee" height="175" />
+
 
 <details>
   <summary>More stats</summary>
