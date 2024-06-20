@@ -25,7 +25,7 @@ I have some *certifications*, I guess you can [check them out here](https://www.
 ## Corny stats tracking widgets containment space
 
 ![Profile View](https://komarev.com/ghpvc/?username=notarock&color=orange)
-![wakapi](https://img.shields.io/endpoint?url=https://wakapi.notarock.lol/api/compat/shields/v1/notarock/interval:30_days&label=last%2030d)
+![wakapi](https://img.shields.io/endpoint?url=https://wakapi.notarock.lol/api/compat/shields/v1/notarock/interval:all_time&label=All%20time)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![Made with markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 ![Built with swag](https://img.shields.io/badge/Built_with-swag-purple)
