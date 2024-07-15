@@ -1,7 +1,7 @@
 
 
 - 🧐 QOL: Whatever it is, I like to get it out of the way via automations.
-- 🤪 Fun: Dumb ideas turned into funny projects. Meme translator, discord bot and other silly projects.
+- 🤪 Fun: Dumb ideas gets turned into fun. Meme translator, youtube slop video generator, discord bot and other silly projects.
 - ☁️ Cloud native: Even if the cloud is sometime my server rack at home...
 - 🦄 Esoteric: Emacs nerd. Nix will replace ansible. Shell wizard when needed.
 - 🗣️ Bilingual: Fluent in French and English.
