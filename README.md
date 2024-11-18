@@ -1,4 +1,4 @@
-Looking for a DevOps/SRE/Platform Engineering guy?
+Looking for a Golang Dev/DevOps/SRE/Platform Engineering guy?
 
 Reach out to me on LinkedIn, I'm currently looking for new oppportunities :eyes:
 
