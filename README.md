@@ -1,8 +1,8 @@
 # 👋 Hey, I'm notarock
 
-### 🛠️ DevOps Consultant | Golang Enthusiast | Cloud Wrangler
+### 🛠️ DevOps Consultant | Golang Enthusiast | Cloud Wrangler | Gets literally anything done
 
-Hi! I’m notarock, a hands-on DevOps consultant who believes infrastructure should work as hard as you do—automation first, always. My toolkit? Golang for sharp backend tools, clouds for infinite scalability, and CI/CD to keep everything humming.
+Hi! I’m notarock, a hands-on DevOps consultant who likes to work on silly stuff in his spare time. My toolkit? Golang for sharp tools, clouds (including my own servers at home, not just public cloud providers) for infinite scalability, and CI/CD to keep everything humming.
 
 ---
 
@@ -11,26 +11,16 @@ Hi! I’m notarock, a hands-on DevOps consultant who believes infrastructure sho
 ### 📌 Featured Projects
 
 - **[acac](https://github.com/notarock/acac)**  
-  _Cloud account chaos, meet automation._  
-  My homegrown tool for taming cloud accounts—think less spreadsheet, more sanity.
+  _A simple markov chain chatbot for twitch.tv._  
+  Learns from twitch chat and spew out stupidity. Available as a hosted service for streamers who want in on the fun.
 
 - **[slopify](https://github.com/notarock/slopify)**  
-  _Workflow automation, but snappier._  
-  If you’ve ever thought “there must be a lazier way,” slopify is my answer. Designed for the terminal lover who hates repetition.
+  _CLI For automated video montage of "[Brainrot](https://en.wikipedia.org/wiki/Brain_rot)"._  
+  Because I wanted to see how hard it would be to become a *part of the problem*.
 
 - **[technews-bot](https://github.com/notarock/technews-bot)**  
-  _The tech news never stops, so neither should you._  
+  _The tech world never stops, so neither should you._  
   This bot fetches the freshest tech headlines—so you don’t have to doomscroll.
-
----
-
-## 🏔️ Outside the Terminal
-
-When I’m not scripting or deploying, you’ll probably find me:
-
-- 🌵 Repotting my ever-growing plant collection
-- 🎣 Fishing for trout (and sometimes ideas)
-- 🏕️ Getting lost (on purpose) in the outdoors
 
 ---
 
@@ -40,14 +30,18 @@ When I’m not scripting or deploying, you’ll probably find me:
 - Cloud architecture (multi-cloud friendly)
 - CI/CD design and troubleshooting
 - Automating the “un-automatable”
-- Keeping infra simple, readable, and robust
+- Redefining the SDLC while keeping compliances in mind
+- Keeping infra & code simple, readable, and robust
 
 ---
 
-## 🗣️ Let’s Chat
+## 🏔️ Outside the Terminal
 
-Want to talk cloud, automation, or just swap fishing stories?  
-Open an issue, star a project, or drop by my repos.
+When I’m not scripting or deploying, you’ll probably find me:
+
+- 🌵 Repotting my ever-growing plant collection
+- 🎣 Fishing for bass (and sometimes ideas)
+- 🎹 Practicing a musical instrument
 
 ---
 
