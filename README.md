@@ -1,4 +1,4 @@
-# 👋 Hey, I'm notarock
+# 👋 Hey, I'm notarock <img src="https://github.com/notarock/notarock/assets/25652765/1dd87c3d-e602-4149-83df-97a918268cb6" height="25" width="25" />
 
 ### 🛠️ DevOps Consultant | Golang Enthusiast | Cloud Wrangler | Generalist Who Gets Things Done
 
@@ -42,4 +42,3 @@ When I’m not scripting or deploying, you’ll probably find me:
 
 > _“Build once, automate forever, and always take time to touch grass.”_ 🌱🎣
 
-<!-- Optionally add a Contact section here if desired -->
