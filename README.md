@@ -20,6 +20,10 @@ Hi! I’m notarock, a hands-on DevOps consultant who loves building tools and au
   _The tech world never stops, so neither should you._  
   This bot fetches the freshest tech headlines—so you don’t have to scroll endlessly.
 
+- **[Tuyauterie](https://github.com/notarock/tuyauterie)**  
+  _My own GitHub Actions Reusable Workflows_  
+  Drop a tuyauterie.yaml in your repository, and you're ready to go.
+
 ---
 
 ## 💡 What I Know Best
