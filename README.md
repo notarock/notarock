@@ -8,7 +8,7 @@ Hi! I’m notarock, a hands-on DevOps consultant who loves building tools and au
 
 ## 📌 Featured Projects
 
-- **[acac](https://github.com/notarock/acac)**  
+- **[a_c_a_c](https://github.com/notarock/a_c_a_c)**  
   _A simple Markov chain chatbot for Twitch, built with Golang._  
   Learns from chat and generates quirky responses. Available as a hosted service for streamers.
 
