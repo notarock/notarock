@@ -12,11 +12,11 @@ Hi! I’m notarock, a hands-on DevOps consultant who loves building tools and au
   _A simple Markov chain chatbot for Twitch, built with Golang._  
   Learns from chat and generates quirky responses. Available as a hosted service for streamers.
 
-- **[slopify](https://github.com/notarock/slopify)**  
+- **[Slopify](https://rochdamour.com/projects/slopify/)**  
   _CLI tool for automated video montages (“brainrot” style)._  
   Exploring how easy it is to automate viral video content.
 
-- **[technews-bot](https://github.com/notarock/technews-bot)**  
+- **[Technews-bot](https://github.com/notarock/technews-bot)**  
   _The tech world never stops, so neither should you._  
   This bot fetches the freshest tech headlines—so you don’t have to scroll endlessly.
 
