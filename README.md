@@ -1,4 +1,4 @@
-# 👋 Hey, I'm notarock <img src="https://github.com/notarock/notarock/assets/25652765/1dd87c3d-e602-4149-83df-97a918268cb6" height="25" width="25" />
+# 👋 Hey, I'm notarock <img src="https://github.com/user-attachments/assets/7c426aa9-1348-4f88-aca8-729296816f3e" height="25" width="45" />
 
 ### 🛠️ DevOps Consultant | Golang Enthusiast | Cloud Wrangler | Generalist Who Gets Things Done
 
