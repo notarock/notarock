@@ -1,6 +1,6 @@
 # 👋 Hey, I'm notarock <img src="https://github.com/user-attachments/assets/7c426aa9-1348-4f88-aca8-729296816f3e" height="25" width="45" />
 
-### 🛠️ DevOps Consultant | Golang Enthusiast | Cloud Wrangler | Generalist Who Gets Things Done
+### DevOps Consultant | Golang Enthusiast | Cloud Wrangler | Generalist Who Gets Things Done
 
 Hi! I’m notarock, a hands-on DevOps consultant who loves building tools and automating workflows in my spare time. My toolkit includes Golang for sharp solutions, cloud platforms (and my own home servers) for scalability, and robust CI/CD pipelines.
 
@@ -26,7 +26,7 @@ Hi! I’m notarock, a hands-on DevOps consultant who loves building tools and au
 
 ---
 
-## 💡 What I Know Best
+## What I Know Best
 
 - **Languages:** Golang for backend, tools, and scripts
 - **DevOps & CI/CD:** Cloud architecture (multi-cloud friendly), CI/CD design and troubleshooting, automating the “un-automatable”
@@ -34,15 +34,4 @@ Hi! I’m notarock, a hands-on DevOps consultant who loves building tools and au
 
 ---
 
-## 🏔️ Outside the Terminal
-
-When I’m not scripting or deploying, you’ll probably find me:
-
-- 🌵 Repotting my ever-growing plant collection
-- 🎣 Fishing for bass (and sometimes ideas)
-- 🎹 Practicing a musical instrument
-
----
-
-> _“Build once, automate forever, and always take time to touch grass.”_ 🌱🎣
-
+> _“touch grass.”_
