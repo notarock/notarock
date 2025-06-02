@@ -1,4 +1,4 @@
-# 👋 Hey, I'm notarock <img src="https://github.com/user-attachments/assets/7c426aa9-1348-4f88-aca8-729296816f3e" height="25" width="45" />
+# Hey, I'm notarock <img src="https://github.com/user-attachments/assets/7c426aa9-1348-4f88-aca8-729296816f3e" height="25" width="45" />
 
 ### DevOps Consultant | Golang Enthusiast | Cloud Wrangler | Generalist Who Gets Things Done
 
@@ -6,7 +6,7 @@ Hi! I’m notarock, a hands-on DevOps consultant who loves building tools and au
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 - **[a_c_a_c](https://github.com/notarock/a_c_a_c)**  
   _A simple Markov chain chatbot for Twitch, built with Golang._  
