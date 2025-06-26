@@ -4,8 +4,6 @@
 
 Hi! I’m notarock, a hands-on DevOps consultant who loves building tools and automating workflows in my spare time. My toolkit includes Golang for sharp solutions, cloud platforms (and my own home servers) for scalability, and robust CI/CD pipelines.
 
----
-
 ## Featured Projects
 
 - **[a_c_a_c](https://github.com/notarock/a_c_a_c)**  
@@ -24,14 +22,8 @@ Hi! I’m notarock, a hands-on DevOps consultant who loves building tools and au
   _My own GitHub Actions Reusable Workflows_  
   Drop a tuyauterie.yaml in your repository, and you're ready to go.
 
----
-
 ## What I Know Best
 
-- **Languages:** Golang for backend, tools, and scripts
-- **DevOps & CI/CD:** Cloud architecture (multi-cloud friendly), CI/CD design and troubleshooting, automating the “un-automatable”
-- **Best Practices:** Redefining SDLC processes with compliance in mind, keeping infra & code simple, readable, and robust
-
----
-
-> _“touch grass.”_
+- **Languages:** Golang for backend, tools, and scripts, but capable to adapt to any ecosystems.
+- **DevOps & CI/CD:** Cloud architecture (multi-cloud friendly), CI/CD design and troubleshooting, automating the “un-automatable”.
+- **Best Practices:** Redefining SDLC processes with compliance in mind, keeping infra & code simple, readable, and robust.
