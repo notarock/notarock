@@ -16,7 +16,7 @@ Hi! I’m notarock, a hands-on DevOps consultant who loves building tools and au
 
 - **[Technews-bot](https://github.com/notarock/technews-bot)**  
   _Keep in touch with the tech world._  
-  Fetches the freshest tech headlines and send the over to your Discord server.
+  Fetches the freshest tech headlines and send them over to your Discord server.
 
 - **[Tuyauterie](https://github.com/notarock/tuyauterie)**  
   _My own GitHub Actions Reusable Workflows_  
