@@ -26,4 +26,4 @@ Hi! I’m notarock, a hands-on DevOps consultant who loves building tools and au
 
 - **Languages:** Golang & Bash for backend, tools, and scripts. Can easily adapt to any ecosystems when needed.
 - **DevOps & CI/CD:** Cloud architecture (multi-cloud friendly), CI/CD design and troubleshooting, automating the "un-automatable".
-- **State of the art SDLC:** Simplying value streams with compliance in mind. Keeping infra & code simple, readable, and reliable.
+- **State of the art SDLC:** Lean value streams with compliance in mind. Keeping infra & code simple, readable, and reliable.
