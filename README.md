@@ -2,7 +2,7 @@
 
 ### DevOps Consultant | Golang Enthusiast | Generalist Who Gets Things Done
 
-Hi! I’m notarock, a hands-on DevOps consultant who loves building tools and automating workflows in my spare time.
+Hi! I’m notarock, a hands-on DevOps consultant who also loves building tools and automating workflows in my spare time.
 
 ## Featured Projects
 
