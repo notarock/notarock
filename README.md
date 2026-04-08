@@ -1,7 +1,7 @@
 # Hey, I'm notarock <img src="https://github.com/user-attachments/assets/7c426aa9-1348-4f88-aca8-729296816f3e" height="25" width="45" />
 
 SRE and Devops type shi.
-Local LLM tinkering and agentic AI for meme creation.
+Currently tinkering with local LLMs and agentic AI for the memes.
 
 ## Featured Projects
 
