@@ -12,16 +12,20 @@ SRE and Devops type shi.
   _CLI tool for automated video montages ("brainrot" style)._  
   Exploring how easy it is to automate viral video content. Dead internet theory style.
 
-- **[Technews-bot](https://github.com/notarock/technews-bot)**  
+- **[technews-bot](https://github.com/notarock/technews-bot)**  
   _Keep in touch with the tech world._  
   Fetches the freshest tech headlines and send them over to your Discord server.
 
-- **[Tuyauterie](https://github.com/notarock/tuyauterie)**  
+- **[tuyauterie](https://github.com/notarock/tuyauterie)**  
   _My own GitHub Actions Reusable Workflows_  
   Drop a tuyauterie.yaml in your repository, and you're ready to go.
 
+- **[pianoter](https://github.com/notarock/pianoter)**  
+  _A practice tracker for managing piano repertoire._  
+  Built myself to keep track of my musical journey.
+
 ## Other stuff
 
-* Pianist in the making, love music of all kinds
-* Kendamas
-* Fishing
+* Personal website: [rochdamour.com](https://rochdamour.com)
+* NixOS enthusiast
+* Montreal based
